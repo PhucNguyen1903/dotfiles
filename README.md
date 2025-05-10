@@ -28,6 +28,9 @@ My Dotfiles
 # Create symlinks for all child items to local $HOME/.config directory
 stow . -t ~/.config
 ```
+# Screenshot
+
+![workspace](./screenshots/workspace.png)
 
 # References
 
